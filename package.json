@@ -1,0 +1,14 @@
+{
+  "name": "todo-rest-api",
+  "version": "1.0.0",
+  "author": "nriccio <nicolasriccio78@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./": "./src/"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "prettier": "^2.1.2"
+  }
+}
